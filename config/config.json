@@ -1,0 +1,31 @@
+{
+  "products": {
+    "product1": "must",
+    "product2": "struguri",
+    "product3": "covrigi"
+  },
+  "titleNumbers": {
+    "title1": "0.5",
+    "title2": "1.5",
+    "title3": "250",
+    "title4": "7"
+  },
+  "categoryLinks": {
+    "link1": "https://www.freshful.ro/c/1-brutarie-si-patiserie",
+    "link2": "https://www.freshful.ro/c/2-carne-si-peste",
+    "link3": "https://www.freshful.ro/c/3-fructe-si-legume",
+    "link4": "https://www.freshful.ro/c/4-lactate-branzeturi-si-oua",
+    "link5": "https://www.freshful.ro/c/5-mezeluri-si-ready-to-cook",
+    "link6": "https://www.freshful.ro/c/produse-vegetale",
+    "link7": "https://www.freshful.ro/c/6-produse-congelate",
+    "link8": "https://www.freshful.ro/c/7-bauturi-si-tutun",
+    "link9": "https://www.freshful.ro/c/8-ceva-sarat",
+    "link10": "https://www.freshful.ro/c/9-ceva-dulce",
+    "link11": "https://www.freshful.ro/c/10-dietetic-bio-si-international",
+    "link12": "https://www.freshful.ro/c/11-cosmetice-si-ingrijire-personala",
+    "link13": "https://www.freshful.ro/c/12-mama-si-copilul",
+    "link14": "https://www.freshful.ro/c/13-detergent-si-igienizare",
+    "link15": "https://www.freshful.ro/c/14-casa-si-agrement",
+    "link16": "https://www.freshful.ro/c/15-pet-shop"
+  }
+}
